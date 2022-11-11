@@ -1059,7 +1059,7 @@ which reflects their class participation.
 ### Tag
 
 This is a small label that you can add to student entries, enabling you to keep track of small details about your students,
-and better identify them. For instance, you can tag weaker students as `Needs Help` or Macintosh users as `Mac Users`.
+and better identify them. For instance, you can tag weaker students as `NeedsHelp` or Macintosh users as `MacUsers`.
 
 
 
