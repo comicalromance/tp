@@ -213,7 +213,6 @@ This means that two students with the same name and module are considered **dist
 for more than one module, you will have to create separate entries for that student, each with a different module. This ensures
 that data from one module (e.g. Attendance for CS2103T) **will not be mixed** with that from another module (e.g. Attendance for CS2040).
 </div>
-<div style="page-break-after: always;"></div>
 
 ## 4.3 Understanding Commands
 
@@ -443,6 +442,7 @@ You can use [`find`](#536-locating-students-by-name-find) to help locate the stu
 
 **See Also:**
 [`clear`](#533-clearing-all-entries-clear)
+<div style="page-break-after: always;"></div>
 
 ### 5.3.3 Clearing all entries: `clear`
 
@@ -683,6 +683,7 @@ absent for that particular class.<br><br>
 :exclamation: **Caution:** Class names should only consist of [alphanumerics](#alphanumeric), spaces, dashes and underscores! Using any other
   character will lead to your class name being **rejected**
 </div>
+<div style="page-break-after: always;"></div>
 
 **Examples:**
 
@@ -694,6 +695,7 @@ absent for that particular class.<br><br>
 
 **See Also:**
 [`unmark`](#543-unmarking-attendance-of-student-unmark)
+<div style="page-break-after: always;"></div>
 
 ### 5.4.3 Unmarking attendance of student: `unmark`
 
@@ -835,6 +837,8 @@ Unparticipate will remove any participation records you want.<br><br>
   index **must be a positive integer** 1, 2, 3, …​<br><br>
 - `ALL`: You can remove the participation component for all students in the currently displayed list.<br><br>
 - `COMPONENT` is the participation component<br><br>
+
+<div style="page-break-after: always;"></div>
 
 **Examples:**
 
