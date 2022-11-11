@@ -101,8 +101,8 @@ that you know how to make the most out of StudMap.
 
 Thank you for choosing StudMap! This user guide will help you navigate our beloved software.
 
-1. You can head off to [Section 4: Quick Start](#4-quick-start) section for a quick tutorial.<br><br>
-2. If you’re already using StudMap, check out [Section 5: Features](#5-features) section to get in-depth information
+1. You can head off to [Section 4: Quick Start](#4-quick-start) for a quick tutorial.<br><br>
+2. If you’re already using StudMap, check out [Section 5: Features](#5-features) to get in-depth information
    about each [command](#command) you can give StudMap.<br><br>
 3. For advanced users, check out [Section 7: Command Summary](#7-command-summary) for an easy all-in-one record for all
    the commands.<br><br>
@@ -116,12 +116,12 @@ Throughout the guide, various types of notation are used to convey important inf
 
 Here are some of the symbols and syntax to look out for:
 
-| Symbol / Syntax      | Meaning                                                                                     |
-|----------------------|---------------------------------------------------------------------------------------------|
-| :information_source: | Information about [commands](#command) or formats that you should be aware of               |
-| :exclamation:        | Warning of potential user scenarios you might face that can lead to errors                  |
-| :bulb:               | Tips that can help you save time using StudMap                                              |
-| `code`               | Indicates [command](#command) or [parameter](#parameters) that can be inputted into StudMap |
+| Symbol / Syntax      | Meaning                                                                                       |
+|----------------------|-----------------------------------------------------------------------------------------------|
+| :information_source: | Information about [commands](#command) or formats that you should be aware of                 |
+| :exclamation:        | Warning of potential user scenarios you might face that can lead to errors                    |
+| :bulb:               | Tips that can help you save time using StudMap                                                |
+| `code`               | Indicates [commands](#command) or [parameters](#parameters) that can be inputted into StudMap |
 
 ---
 <div style="page-break-after: always;"></div>
@@ -220,7 +220,7 @@ that data from one module (e.g. Attendance for CS2103T) **will not be mixed** wi
 Now that you understand the User Interface of StudMap, what can you do to interact with it?
 
 StudMap is designed around the use of a **[Command Line Interface (CLI)](#command-line-interface-cli)**. This means that accessing or modifying data on
-StudMap has to be done by typing instructions, or `[commands](#command)`, that StudMap can understand and execute.
+StudMap has to be done by typing instructions, or [`commands`](#command), that StudMap can understand and execute.
 
 ### Command Word
 
