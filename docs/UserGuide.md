@@ -244,7 +244,6 @@ Here's an example of how [parameters](#parameters) can be used:
   name you want<br><br>
 * The final command will look like this: `edit 2 n/Salad`!<br><br>
 
-<div style="page-break-after: always;"></div>
 <div markdown="block" class="alert alert-primary">
 :bulb: **Tip:** Confused about which commands use what parameters? Do not fret! Keying in the command word into the command box 
 and pressing enter will give you all the information about the command: what it does, what parameters it takes and so on!
@@ -276,7 +275,6 @@ Let’s try out some commands! Type or copy a command into the Command Box and p
 
 This is just a short preview of the features that StudMap has to offer. The [Features](#5-features) section
 will guide you through all available commands in greater detail!
-<div style="page-break-after: always;"></div>
 
 ## 4.4 Migrating to StudMap
 
@@ -293,6 +291,7 @@ That’s all for the tutorial! Check out the [Features](#5-features) section for
 command. We hope you enjoy using StudMap!
 
 ---
+<div style="page-break-after: always;"></div>
 
 # 5. Features
 
@@ -460,7 +459,6 @@ See <a href="#553-backing-up-data">here</a> for more instructions.<br>
 
 **See Also:**
 [`delete`](#532-deleting-a-student-delete)
-<div style="page-break-after: always;"></div>
 
 ### 5.3.4 Importing students from CSV file: `import`
 
